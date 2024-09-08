@@ -28,7 +28,7 @@ Add the token to your environment variables or directly into the script.
 
 <h2>Contributing</h2>
 <h3>We welcome contributions to this project. Feel free to fork the repository and submit a pull request.</h3>
-<h2>programmer : Sara Frahani - Mahtab Javadi</h2>
+<p>programmer : Sara Frahani - Mahtab Javadi</p>
 
 <hr>
 
@@ -59,5 +59,5 @@ Add the token to your environment variables or directly into the script.
     python bot.py
 
 <h2>مشارکت</h2>
-<h3>ما از هرگونه مشارکت در این پروژه استقبال می‌کنیم. لطفاً ریپازیتوری را فورک کرده و یک Pull Request ارسال کنید.</h3>
-<h2>برنامه نویس : مهتاب جوادی - سارا فراهانی</h2>
+<p>ما از هرگونه مشارکت در این پروژه استقبال می‌کنیم. لطفاً ریپازیتوری را فورک کرده و یک Pull Request ارسال کنید.</p>
+<p>برنامه نویس : مهتاب جوادی - سارا فراهانی</p>
