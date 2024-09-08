@@ -1,0 +1,5 @@
+requests~=2.32.3
+nltk~=3.9.1
+spacy~=3.7.6
+telebot~=0.0.5
+textblob~=0.18.0.post0
